@@ -1,7 +1,7 @@
 # AppsList Server
 
 ## General Description
-This server is intended as a tool to learn Node.js and Express.  
+This server is intended as a tool to learn Node.js, Express, and testing with Mocha and Chai.  
 
 ## Technology used
 This project uses Node.js, Express, Morgan, and Nodemon. 
